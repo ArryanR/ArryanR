@@ -14,11 +14,13 @@ I'm Arryan, a young engineer with big dreams! 🚀
 
 I'm working on creating **Echo**, a robot dog designed to help blind people navigate the world safely.
 
-<div align="right">
+<div align="center">
   <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
-</div>- 🔭 **Currently:** Student & developer
-- 📚 **Learning:** OpenCV and computer vision
-- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code
+</div>
+
+ - 🔭 **Currently:** Student & developer  
+- 📚 **Learning:** OpenCV and computer vision  
+- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code  
 
 ## 🛠️ Languages & Tools
 
