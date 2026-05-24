@@ -14,7 +14,7 @@ I'm Arryan, a young engineer with big dreams! 🚀
 
 I'm working on creating **Echo**, a robot dog designed to help blind people navigate the world safely.
 
-<div align="center">
+<div align="right">
   <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
 </div>
 
