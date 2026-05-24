@@ -1,84 +1,66 @@
 <div align="center">
-  <img height="197" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
+  <img height="197" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png" alt="Echo Robot Dog" />
 </div>
-
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR" alt="Visitor badge" />
 </div>
 
-###
+## Hi there! 👋
 
-<h1 align="center">Hi there!</h1>
+### 🧑‍💻 About Me
 
-###
+I'm Arryan, a young engineer with big dreams! 🚀
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm working on creating **Echo**, a robot dog designed to help blind people navigate the world safely.
 
-###
+- 🔭 **Currently:** Student & developer
+- 📚 **Learning:** OpenCV and computer vision
+- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code
 
-<p align="left">I'm Arryan, a child engineer with big dreams!  <h3> I hope to create a robot dog called Echo that helps blind people navigate!  </h3>  🔭 I’m a student  - 📚 I'm currently learning computer vision and ML   ⚡ In my free time I calculate inverse kinematic derivations!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
 </div>
 
-###
+### 🎯 Current Projects & Interests
 
-<h3 align="center">Interests, plans, and facts</h3>
+- 🤖 **Working on:** [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot)
+- 🌱 **Learning:** OpenCV and computer vision
+- 👯 **Collaborate on:** Computer Vision projects
+- 🤝 **Help needed with:** More efficient inverse kinematics algorithms
+- 💻 **Portfolio:** [arryan-tech.netlify.app](https://arryan-tech.netlify.app)
+- 💬 **Ask me about:** Design and mechanical structure
 
-<p>- 🔭 I’m currently working on Echo - A Robot quadruped(https://github.com/ArryanR/Echo-Quadruped-Robot) </p>
+---
 
-<p>- 🌱 I’m currently learning OpenCV </p>
+## Thanks for reading! 🙌
 
-<p>- 👯 I’m looking to collaborate on Computer Vision </p>
-
-<p>- 🤝 I’m looking for help with More efficient Inverse Kinematics </p>
-
-<p>- 👨‍💻 All of my projects are available at arryan-tech.netlify.app (https://arryan-tech.netlify.app) </p>
-
-<p>- 💬 Ask me about Design and Structure </p>
-
-<h2> Thanks for reading! Take a look at some of my projects! </h2>
-<p align="left">
-</p>
+Check out some of my projects at [arryan-tech.netlify.app](https://arryan-tech.netlify.app)
