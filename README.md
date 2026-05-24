@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Arryan! A developer and passionate engineer!<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning computer vision and ML<br>- ⚡ In my free time I sleep</p>
+<p align="left">I'm Arryan! A developer and passionate engineer!<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning computer vision and ML<br>- ⚡ In my free time I calculate inverse kinematic derivations!</p>
 
 ###
 
@@ -63,3 +63,23 @@
 </div>
 
 ###
+
+<h3 align="center">Interests, plans, and facts</h3>
+
+- 🔭 I’m currently working on [Echo - Robot quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot)
+
+- 🌱 I’m currently learning **Computer Vision**
+
+- 👯 I’m looking to collaborate on **Computer Vision**
+
+- 🤝 I’m looking for help with **More efficient Inverse Kinematics**
+
+- 👨‍💻 All of my projects are available at [arryan-tech.netlify.app](arryan-tech.netlify.app)
+
+- 💬 Ask me about **Design and Structure**
+
+- ⚡ Fun fact **I am probably sleeping now**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
