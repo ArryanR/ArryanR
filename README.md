@@ -3,7 +3,7 @@
 
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com)
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
-[![Visual Studio Marketplace](https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://marketplace.visualstudio.com)
+[![Visual Studio Marketplace](https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&code=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://marketplace.visualstudio.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR)
 
@@ -35,7 +35,7 @@
 -  <h4>🌱 Learning: OpenCV and computer vision </h4>
 -  <h4>👯 Collaborate on: Computer Vision projects </h4>
 -  <h4>🤝 Help needed with: More efficient inverse kinematics algorithms </h4>
-### <h4>💻 Portfolio: [arryan-tech.netlify.app](https://arryan-tech.netlify.app) </h4>  
+- 💻 Portfolio: [arryan-tech.netlify.app](https://arryan-tech.netlify.app) 
 -  <h4>💬 Ask me about: Design and mechanical structure </h4>
 
 ---
