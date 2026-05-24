@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div align="center">
-  <img height="150" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
+  <img height="400" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
 </div>
 
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com)
