@@ -1,3 +1,7 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap');
+</style>
+
 <div align="center">
   <img height="197" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png" alt="Echo Robot Dog" />
 </div>
@@ -5,12 +9,14 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo" />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo" />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio [...]
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR" alt="Visitor badge" />
 </div>
+
+<div style="font-family: 'Roboto Mono', monospace;">
 
 ## Hi there! 👋
 
@@ -64,3 +70,5 @@ I'm working on creating **Echo**, a robot dog designed to help blind people navi
 ## Thanks for reading! 🙌
 
 Check out some of my projects at [arryan-tech.netlify.app](https://arryan-tech.netlify.app)
+
+</div>
