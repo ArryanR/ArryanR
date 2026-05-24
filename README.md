@@ -66,19 +66,19 @@
 
 <h3 align="center">Interests, plans, and facts</h3>
 
-- 🔭 I’m currently working on [Echo - Robot quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot)
+<p>- 🔭 I’m currently working on [Echo - Robot quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot) </p>
 
-- 🌱 I’m currently learning **Computer Vision**
+<p>- 🌱 I’m currently learning **Computer Vision** </p>
 
-- 👯 I’m looking to collaborate on **Computer Vision**
+<p>- 👯 I’m looking to collaborate on **Computer Vision** </p>
 
-- 🤝 I’m looking for help with **More efficient Inverse Kinematics**
+<p>- 🤝 I’m looking for help with **More efficient Inverse Kinematics** </p>
 
-- 👨‍💻 All of my projects are available at [arryan-tech.netlify.app](arryan-tech.netlify.app)
+<p>- 👨‍💻 All of my projects are available at [arryan-tech.netlify.app](arryan-tech.netlify.app) </p>
 
-- 💬 Ask me about **Design and Structure**
+<p>- 💬 Ask me about **Design and Structure** </p>
 
-- ⚡ Fun fact **I am probably sleeping now**
+<p>- ⚡ Fun fact **I am probably sleeping now** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
