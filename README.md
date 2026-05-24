@@ -11,7 +11,7 @@
 
 <h4>I'm Arryan, a young engineer with big dreams! 🚀</h4>
 
-<h4>I'm working on creating **Echo**, a robot dog designed to help blind people navigate the world safely. </h4>
+<h4>I'm working on creating Echo, a robot dog designed to help blind people navigate the world safely. </h4>
 
 <div align="center">
   <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
@@ -31,12 +31,12 @@
 
 ## 🎯 Current Projects & Interests
 
--  <h4>🤖 **Working on:** [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot) </h4>
--  <h4>🌱 **Learning:** OpenCV and computer vision </h4>
--  <h4>👯 **Collaborate on:** Computer Vision projects </h4>
--  <h4>🤝 **Help needed with:** More efficient inverse kinematics algorithms </h4>
--  <h4>💻 **Portfolio:** [arryan-tech.netlify.app](https://arryan-tech.netlify.app) </h4>
--  <h4>💬 **Ask me about:** Design and mechanical structure </h4>
+-  <h4>🤖 Working on: [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot) </h4>
+-  <h4>🌱 Learning: OpenCV and computer vision </h4>
+-  <h4>👯 Collaborate on: Computer Vision projects </h4>
+-  <h4>🤝 Help needed with: More efficient inverse kinematics algorithms </h4>
+### -  <h4>💻 Portfolio: [arryan-tech.netlify.app](https://arryan-tech.netlify.app) </h4>
+-  <h4>💬 Ask me about: Design and mechanical structure </h4>
 
 ---
 
