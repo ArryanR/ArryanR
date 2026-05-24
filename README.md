@@ -21,13 +21,15 @@
 - 📚 **Learning:** OpenCV and computer vision  </h4>
 - 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code  </h4>
 
+## 🔥 My Stats
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
+
 ## 🛠️ Languages & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
 
-## 🔥 My Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
 ## 🎯 Current Projects & Interests
 
