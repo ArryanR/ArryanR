@@ -74,7 +74,7 @@
 
 <p>- 🤝 I’m looking for help with More efficient Inverse Kinematics </p>
 
-<p>- 👨‍💻 All of my projects are available at arryan-tech.netlify.app(arryan-tech.netlify.app) </p>
+<p>- 👨‍💻 All of my projects are available at arryan-tech.netlify.app (https://arryan-tech.netlify.app) </p>
 
 <p>- 💬 Ask me about Design and Structure </p>
 
