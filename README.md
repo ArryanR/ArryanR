@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Arryan, a child engineer with big dreams!  <h3> I hope to create a robot dog called Echo that helps blind people navigate!  </h3><br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning computer vision and ML<br>- ⚡ In my free time I calculate inverse kinematic derivations!</p>
+<p align="left">I'm Arryan, a child engineer with big dreams!  <h3> I hope to create a robot dog called Echo that helps blind people navigate!  </h3>  🔭 I’m a student  - 📚 I'm currently learning computer vision and ML   ⚡ In my free time I calculate inverse kinematic derivations!</p>
 
 ###
 
