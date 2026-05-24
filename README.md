@@ -31,14 +31,12 @@
 
 ## 🎯 Current Projects & Interests
 
--  <h4>🤖 Working on: [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot) </h4>
--  <h4>🌱 Learning: OpenCV and computer vision </h4>
--  <h4>👯 Collaborate on: Computer Vision projects </h4>
--  <h4>🤝 Help needed with: More efficient inverse kinematics algorithms </h4>
+- 🤖 Working on: [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot)
+- 🌱 Learning: OpenCV and computer vision
+- 👯 Collaborate on: Computer Vision projects
+- 🤝 Help needed with: More efficient inverse kinematics algorithms
 - 💻 Portfolio: [arryan-tech.netlify.app](https://arryan-tech.netlify.app) 
--  <h4>💬 Ask me about: Design and mechanical structure </h4>
-
----
+- 💬 Ask me about: Design and mechanical structure
 
 ## Thanks for reading! 🙌
 
