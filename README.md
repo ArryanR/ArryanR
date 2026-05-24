@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="197" src="https://https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
+  <img height="197" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
 </div>
+
 
 ###
 
