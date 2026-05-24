@@ -16,9 +16,7 @@ I'm working on creating **Echo**, a robot dog designed to help blind people navi
 
 <div align="right">
   <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
-</div>
-
-- 🔭 **Currently:** Student & developer
+</div>- 🔭 **Currently:** Student & developer
 - 📚 **Learning:** OpenCV and computer vision
 - 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code
 
