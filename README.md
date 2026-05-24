@@ -17,9 +17,9 @@
   <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
 </div>
 
- - <h4> 🔭 **Currently:** Student & developer </h4>  
-- <h4> 📚 **Learning:** OpenCV and computer vision  </h4>
-- <h4> 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code  </h4>
+- 🔭 **Currently:** Student & developer </h4>  
+- 📚 **Learning:** OpenCV and computer vision  </h4>
+- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code  </h4>
 
 ## 🛠️ Languages & Tools
 
