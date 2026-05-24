@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Arryan! A developer and passionate engineer!<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning computer vision and ML<br>- ⚡ In my free time I calculate inverse kinematic derivations!</p>
+<p align="left">I'm Arryan, a child engineer with big dreams!  <h3> I hope to create a robot dog called Echo that helps blind people navigate!  </h3><br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning computer vision and ML<br>- ⚡ In my free time I calculate inverse kinematic derivations!</p>
 
 ###
 
@@ -78,6 +78,6 @@
 
 <p>- 💬 Ask me about Design and Structure </p>
 
-<p>- ⚡ Fun fact I am probably sleeping now </p>
+<h2> Thanks for reading! Take a look at some of my projects! </h2>
 <p align="left">
 </p>
