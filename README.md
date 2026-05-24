@@ -66,7 +66,7 @@
 
 <h3 align="center">Interests, plans, and facts</h3>
 
-<p>- 🔭 I’m currently working on [Echo - Robot quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot) </p>
+<p>- 🔭 I’m currently working on Echo - A Robot quadruped(https://github.com/ArryanR/Echo-Quadruped-Robot) </p>
 
 <p>- 🌱 I’m currently learning OpenCV </p>
 
@@ -74,7 +74,7 @@
 
 <p>- 🤝 I’m looking for help with More efficient Inverse Kinematics </p>
 
-<p>- 👨‍💻 All of my projects are available at [arryan-tech.netlify.app](arryan-tech.netlify.app) </p>
+<p>- 👨‍💻 All of my projects are available at arryan-tech.netlify.app(arryan-tech.netlify.app) </p>
 
 <p>- 💬 Ask me about Design and Structure </p>
 
