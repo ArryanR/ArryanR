@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-![Echo Robot Dog](https://arryan-tech.netlify.app/echo%20robot%20dog.png)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR&"  />
+</div>
 
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com)
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
