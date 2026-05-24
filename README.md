@@ -28,9 +28,7 @@ I'm working on creating **Echo**, a robot dog designed to help blind people navi
 
 ## 🔥 My Stats
 
-<div align= "center">
-  ![GitHub Streak Stats](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
-</div>
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
 ## 🎯 Current Projects & Interests
 
