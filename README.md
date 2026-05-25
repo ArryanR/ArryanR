@@ -57,6 +57,10 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" />
       <br /><sub><b>Blender</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://en.wikipedia.org/wiki/Autodesk_Fusion#/media/File:Fusion360_Logo.svg" width="40" height="40" alt="Fusion" />
+      <br /><sub><b>Fusion</b></sub>
+    </td>
   </tr>
 </table>
 
