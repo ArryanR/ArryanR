@@ -17,7 +17,7 @@
 
 <img align="right" height="230" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png" alt="Echo Robot Dog" />
 
-I am deeply passionate about intelligent robotics and automation. Right now, my primary mission is building **Echo**—a specialized quadruped robot designed to empower blind individuals to navigate their environments safely and independently.
+I am deeply passionate about intelligent robotics and automation. Right now, my primary mission is building **Echo** - a specialized quadruped robot designed to empower blind individuals to navigate their environments safely and independently.
 
 * 🔭 Current Focus: Student, developer, and robotics enthusiast.
 * 🎯 Core Objective: Writing efficient, low-latency code for hardware systems.
@@ -85,3 +85,5 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
   <br />
   <code>Thanks for dropping by! Take a look at some projects and documentation!🙌</code>
 </div>
+
+hello there
