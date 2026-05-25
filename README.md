@@ -1,24 +1,31 @@
-<h2 align="left">Hi 👋! My name is Arryan and I'm a student from the UK!</h2>
+# Hi there! 👋
 
-###
+
+[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com)
+[![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
+[![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&code=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://visualstudio.com)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR)
+
+## 🧑‍💻 About Me
+
+<h4>I'm Arryan, a young engineer with big dreams! 🚀</h4>
+
+<h4>I'm working on creating Echo, a robot dog designed to help blind people navigate the world safely. </h4>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR&"  />
+  <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
 </div>
 
-###
+- 🔭 **Currently:** Student & developer </h4>  
+- 📚 **Learning:** OpenCV and computer vision  </h4>
+- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code  </h4>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArryanR/ArryanR/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ArryanR/ArryanR/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+## 🔥 My Stats
 
-###
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
-<img align="right" height="150" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
-
-###
+## 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -42,10 +49,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
 
-<br clear="both">
+## 🎯 Current Projects & Interests
 
-<img src="https://raw.githubusercontent.com/ArryanR/ArryanR/snake-output/snake.svg" alt="Snake animation" />
+- 🤖 Working on: [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot)
+- 🌱 Learning: OpenCV and computer vision
+- 👯 Collaborate on: Computer Vision projects
+- 🤝 Help needed with: More efficient inverse kinematics algorithms
+- 💻 Portfolio: [arryan-tech.netlify.app](https://arryan-tech.netlify.app) 
+- 💬 Ask me about: Design and mechanical structure
 
-###
+## Thanks for reading! 🙌
+
+Check out some of my projects at [arryan-tech.netlify.app](https://arryan-tech.netlify.app)
