@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I'm+Arryan!+👋;Young+engineer+with+big+dreams!+🚀;Building+Echo+the+robot+dog...+🤖;Learning+OpenCV+%26+Computer+Vision;Optimizing+inverse+kinematics...;Always+designing.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I'm+Arryan!+👋;Young+engineer+with+big+dreams!+🚀;Building+Echo+the+robot+dog...+🤖;Learning+OpenCV+%26+Computer+Vision;Optimising+inverse+kinematics...;Always+designing.+Always+learning.)](https://git.io/typing-svg)
 
 ---
 
