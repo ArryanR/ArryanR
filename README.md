@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Arryan!+👋;Young+engineer+with+big+dreams!+🚀;Building+Echo+the+robot+dog...+🤖;Learning+OpenCV+%26+Computer+Vision;Optimizing+inverse+kinematics...;Always+building.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I'm+Arryan!+👋;Young+engineer+with+big+dreams!+🚀;Building+Echo+the+robot+dog...+🤖;Learning+OpenCV+%26+Computer+Vision;Optimizing+inverse+kinematics...;Always+designing.+Always+learning.)](https://git.io/typing-svg)
 
 ---
 
@@ -19,9 +19,9 @@
 
 I am deeply passionate about intelligent robotics and automation. Right now, my primary mission is building **Echo**—a specialized quadruped robot designed to empower blind individuals to navigate their environments safely and independently.
 
-* 🔭 **Current Focus:** Student, developer, and robotics enthusiast.
-* 🎯 **Core Objective:** Writing efficient, low-latency code for hardware systems.
-* 💬 **Let's Talk:** Mechanical structure, robot design, or computer vision pipeline optimizations.
+* 🔭 Current Focus: Student, developer, and robotics enthusiast.
+* 🎯 Core Objective: Writing efficient, low-latency code for hardware systems.
+* 💬 Let's Talk: Mechanical structure, robot design, or computer vision pipeline optimizations.
 
 <br clear="both">
 
@@ -62,9 +62,9 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
 
 ## 🎯 Current Projects & Interests
 
-* 🤖 **[Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot):** Active development on the physical structure and mobility controls.
+* 🤖 **[Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot):** A robot dog that helps blind people navigate!
 * 🌱 **Computer Vision:** Deep diving into image processing to give Echo spatial awareness.
-* 🤝 **Inverse Kinematics:** Actively looking for guidance on writing highly optimized math algorithms for leg positioning.
+* 🤝 **Inverse Kinematics:** Looking to collaborate on more efficient inverse kinematics code.
 * 💻 **Portfolio:** See my complete build logs and updates at [arryan-tech.netlify.app](https://arryan-tech.netlify.app).
 
 ## 📊 Git Insights & Activity
@@ -79,5 +79,5 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
 
 <div align="center">
   <br />
-  <code>System offline. Thanks for dropping by! 🙌</code>
+  <code>Thanks for dropping by! Take a look at some projects and documentation!🙌</code>
 </div>
