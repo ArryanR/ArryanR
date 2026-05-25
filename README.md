@@ -8,7 +8,7 @@
 
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=36BCF7&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com/p/arryan.rahman42)
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
-[![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&code=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://visualstudio.com)
+[![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&code=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://visualstudio.com)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR)
 
 </div>
