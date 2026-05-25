@@ -1,6 +1,5 @@
 # Hi there! 👋
 
-
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com)
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
 [![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&code=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://visualstudio.com)
@@ -9,17 +8,17 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png" alt="Echo Robot Dog" />
+
 <h4>I'm Arryan, a young engineer with big dreams! 🚀</h4>
 
-<h4>I'm working on creating Echo, a robot dog designed to help blind people navigate the world safely. </h4>
+<h4>I'm working on creating Echo, a robot dog designed to help blind people navigate the world safely.</h4>
 
-<div align="center">
-  <img height="300" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
-</div>
+- 🔭 **Currently:** Student & developer
+- 📚 **Learning:** OpenCV and computer vision 
+- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code
 
-- 🔭 **Currently:** Student & developer </h4>  
-- 📚 **Learning:** OpenCV and computer vision  </h4>
-- 🎯 **Goal:** Build intelligent robotics solutions and be more efficient in my code  </h4>
+<br clear="both">
 
 ## 🔥 My Stats
 
@@ -48,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-
 
 ## 🎯 Current Projects & Interests
 
