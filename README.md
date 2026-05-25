@@ -45,7 +45,7 @@ I'm **Arryan**, a young engineer with big dreams! 🚀 I'm currently working on 
 | 🤖 **[Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot)** | Primary focus. Ask me about the mechanical design! |
 | 🌱 **Computer Vision** | Learning OpenCV; open to collaborating on CV projects. |
 | 🤝 **Inverse Kinematics** | Help needed! Looking for more efficient algorithms. |
-| 💻 **Portfolio** | Check out my work at [arryan-tech.netlify.app](https://arryan-tech.netlify.app) |
+| 💻 **[Portfolio](https://arryan-tech.netlify.app)** | Check out my work at [arryan-tech.netlify.app](https://arryan-tech.netlify.app) |
 
 ---
-*Thanks for stopping by! 🙌*
+**Check out some projects! 🙌**
