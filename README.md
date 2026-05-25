@@ -85,5 +85,3 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
   <br />
   <code>Thanks for dropping by! Take a look at some projects and documentation!🙌</code>
 </div>
-
-hello there
