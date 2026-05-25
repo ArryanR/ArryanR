@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I'm+Arryan+🚀;Young+engineer+with+big+dreams!;Building+Echo+the+robot+dog...;Learning+OpenCV+%26+Computer+Vision" alt="Typing Effect" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Arryan!+👋;Young+engineer+with+big+dreams!+🚀;Building+Echo+the+robot+dog...+🤖;Learning+OpenCV+%26+Computer+Vision;Optimizing+inverse+kinematics...;Always+building.+Always+learning.)](https://git.io/typing-svg)
 
 ---
 
