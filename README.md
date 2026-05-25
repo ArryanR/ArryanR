@@ -20,6 +20,10 @@
 
 <br clear="both">
 
+## 🐍 My Contributions
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ArryanR/ArryanR/output/github-contribution-grid-snake.svg)
+
 ## 🔥 My Stats
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
