@@ -66,7 +66,7 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
 ## 🎯 Current Projects & Interests
 
 *  **🦾 [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot):** A robot dog that helps blind people navigate!
-*  **🖥️ Computer Vision:** Deep diving into image processing to give Echo spatial awareness.
+*  **🖥️ [Computer Vision](https://github.com/ArryanR/Computer-Vision-Intro):** Deep diving into image processing to give Echo spatial awareness.
 *  **⚙️ [Inverse Kinematics](https://github.com/ArryanR/Echo-Quadruped-Robot/blob/main/Latest%20walking%20gait%20(version%203)/IK%20derivations.md):** Looking to collaborate on more efficient inverse kinematics code.
 *  **🚀 [Portfolio](https://arryan-tech.netlify.app):** See my complete build logs and updates at [arryan-tech.netlify.app](https://arryan-tech.netlify.app).
 
