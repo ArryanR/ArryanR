@@ -8,7 +8,6 @@
 
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=36BCF7&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com/p/arryan.rahman42)
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
-[![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&code=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge)](https://visualstudio.com)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR)
 
 </div>
@@ -19,9 +18,9 @@
 
 I am deeply passionate about intelligent robotics and automation. Right now, my primary mission is building **Echo** - a specialized quadruped robot designed to empower blind individuals to navigate their environments safely and independently.
 
-* 🔭 Current Focus: Student, developer, and robotics enthusiast.
-* 🎯 Core Objective: Writing efficient, low-latency code for hardware systems.
-* 💬 Let's Talk: Mechanical structure, robot design, or computer vision pipeline optimizations.
+*  Current Focus: Student, developer, and robotics enthusiast.
+*  Core Objective: Writing efficient, low-latency code for hardware systems.
+*  Let's Talk: Mechanical structure, robot design, or computer vision pipeline optimizations.
 
 <br clear="both">
 
@@ -66,10 +65,10 @@ I am deeply passionate about intelligent robotics and automation. Right now, my 
 
 ## 🎯 Current Projects & Interests
 
-* 🤖 **[Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot):** A robot dog that helps blind people navigate!
-* 🌱 **Computer Vision:** Deep diving into image processing to give Echo spatial awareness.
-* 🤝 **Inverse Kinematics:** Looking to collaborate on more efficient inverse kinematics code.
-* 💻 **[Portfolio](https://arryan-tech.netlify.app):** See my complete build logs and updates at [arryan-tech.netlify.app](https://arryan-tech.netlify.app).
+*  **🦾 [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot):** A robot dog that helps blind people navigate!
+*  **🖥️ Computer Vision:** Deep diving into image processing to give Echo spatial awareness.
+*  **⚙️ [Inverse Kinematics](https://github.com/ArryanR/Echo-Quadruped-Robot/blob/main/Latest%20walking%20gait%20(version%203)/IK%20derivations.md):** Looking to collaborate on more efficient inverse kinematics code.
+*  **🚀 [Portfolio](https://arryan-tech.netlify.app):** See my complete build logs and updates at [arryan-tech.netlify.app](https://arryan-tech.netlify.app).
 
 ## 📊 Contributions & Activity
 
