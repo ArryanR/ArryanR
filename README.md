@@ -1,86 +1,63 @@
-<div align="center">
-
-# Hi there! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I'm+Arryan!+👋;Young+engineer+with+big+dreams!+🚀;Building+Echo+the+robot+dog!;Learning+OpenCV+%26+Computer+Vision;Optimising+inverse+kinematics...;Always+designing.+Always+learning.)](https://git.io/typing-svg)
-
----
-
-[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=36BCF7&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com/p/arryan.rahman42)
-[![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR)
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-## 🧑‍💻 About Me
+###
 
-<img align="right" height="230" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png" alt="Echo Robot Dog" />
+<h2 align="left">Hi 👋! My name is Arryan and I'm a student from the UK!</h2>
 
-I am deeply passionate about intelligent robotics and automation. Right now, my primary mission is building **Echo** - a specialized quadruped robot designed to empower blind individuals to navigate their environments safely and independently.
+###
 
-*  Current Focus: Student, developer, and robotics enthusiast.
-*  Core Objective: Writing efficient, low-latency code for hardware systems.
-*  Let's Talk: Mechanical structure, robot design, or computer vision pipeline optimizations.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ArryanR/ArryanR/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ArryanR/ArryanR/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://arryan-tech.netlify.app/echo%20robot%20dog.png"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
+
+###
 
 <br clear="both">
 
-## 🛠️ Tech Stack & Tooling
+<img src="https://raw.githubusercontent.com/ArryanR/ArryanR/snake-output/snake.svg" alt="Snake animation" />
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br /><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br /><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <br /><sub><b>C</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
-      <br /><sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
-      <br /><sub><b>RaspberryPi</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" />
-      <br /><sub><b>Arduino</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" />
-      <br /><sub><b>Blender</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" width="40" height="40" alt="Fusion" />
-      <br /><sub><b>Fusion</b></sub>
-    </td>
-  </tr>
-</table>
+###
 
-## 🎯 Current Projects & Interests
-
-*  **🦾 [Echo - Robot Quadruped](https://github.com/ArryanR/Echo-Quadruped-Robot):** A robot dog that helps blind people navigate!
-*  **🖥️ [Computer Vision](https://github.com/ArryanR/Computer-Vision-Intro):** Deep diving into image processing to give Echo spatial awareness.
-*  **⚙️ [Inverse Kinematics](https://github.com/ArryanR/Echo-Quadruped-Robot/blob/main/Latest%20walking%20gait%20(version%203)/IK%20derivations.md):** Looking to collaborate on more efficient inverse kinematics code.
-*  **🚀 [Portfolio](https://arryan-tech.netlify.app):** See my complete build logs and updates at [arryan-tech.netlify.app](https://arryan-tech.netlify.app).
-
-## 📊 Contributions & Activity
-
-<div align="center">
-
-| 🐍 Contribution Snake | 🔥 Performance Stats |
-| :---: | :---: |
-| ![snake](https://raw.githubusercontent.com/ArryanR/ArryanR/output/github-contribution-grid-snake.svg) | ![streak](https://streak-stats.demolab.com?user=ArryanR&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8&order=3) |
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<div align="center">
-  <br />
-  <code>Thanks for dropping by! Take a look at some projects and documentation!🙌</code>
-</div>
+###
