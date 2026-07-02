@@ -1,6 +1,5 @@
-<div align="center">
 
-# Hi there!
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=900&lines=Young+engineer+working+towards+big+dreams;Exploring+computer+vision+pipelines;Full+Stack+Dev;Learning+more+all+the+time!)](https://arryan-tech.netlify.app/)
 ---
 
