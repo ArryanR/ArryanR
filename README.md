@@ -7,5 +7,5 @@
 [![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=36BCF7&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com/p/arryan.rahman42)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArryanR.ArryanR)
 
-<img data-importer="snake" src="https://github.com/ArryanR/ArryanR/blob/main/.github/workflows/generate-snake.yml" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/ArryanR/ArryanR/snake-output/snake.svg" alt="Snake animation" />
 </div>
